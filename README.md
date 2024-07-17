@@ -53,7 +53,7 @@ Escolha o número de sua opção:
 
 1. Clone o repositório para sua máquina local:
    ```
-   - git clone https://github.com/Ludnoe/challengeAluraLiteralura
+   - git clone https://github.com/PauloBarbosaDev/challengeAluraLiteralura
    ```
 2. Navegue até o diretório do projeto:
    ```
@@ -66,10 +66,6 @@ Escolha o número de sua opção:
    - mvn spring-boot:run
    ```
 
-### Acesso ao Projeto
-
-Você pode acessar o projeto através do [repositório no GitHub](https://github.com/Ludnoe/challengeAluraLiteralura).
-
 ### Tecnologias Utilizadas
 
 - Java 17
@@ -77,7 +73,3 @@ Você pode acessar o projeto através do [repositório no GitHub](https://github
 - PostgreSQL 13.4
 - Maven
 - Gutendex API
-
-### Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
